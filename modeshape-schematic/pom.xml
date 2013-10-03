@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>modeshape-schematic</artifactId>
-    <packaging>jar</packaging>
+    <packaging>bundle</packaging>
     <name>Schematic API</name>
     <description>Module for storing JSON/BSON documents and JSON Schemas in Infinispan</description>
     <dependencies>
@@ -95,7 +95,7 @@
                 <configuration>
                     <instructions>
                         <Export-Package>
-                            ${project.groupId}.schematic.*;version=${project.version};-split-package:=error
+                            org.infinispan.schematic*;version=${project.version};-split-package:=error
                         </Export-Package>
                     </instructions>
                 </configuration>
