@@ -237,7 +237,7 @@
         <jbossjta.version>4.16.2.Final</jbossjta.version>
         <atomikos.version>3.8.0</atomikos.version>
         <picketbox.version>4.0.7.Final</picketbox.version>
-        <lucene.version>3.6.2</lucene.version>
+        <lucene.version>7.1.0</lucene.version>
         <lucene.regex.version>3.0.3</lucene.regex.version>
 
         <!-- These versions of Hibernate Search transitive dependencies are used in creating the Hibernate Search AS7 module.
