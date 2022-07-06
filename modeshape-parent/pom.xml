@@ -249,7 +249,7 @@
 
         <infinispan.version>5.2.6.Final</infinispan.version>
         <!--Make sure the jgroups version is the same as the one used by ISPN -->
-        <jgroups.version>3.2.7.Final</jgroups.version>
+        <jgroups.version>4.0.0.Final</jgroups.version>
         <c3p0.version>0.9.1.2</c3p0.version>
         <jboss.logging.version>3.1.2.GA</jboss.logging.version>
 
