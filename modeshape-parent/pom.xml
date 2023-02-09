@@ -303,7 +303,7 @@
         <eclipse.emf.ecorechange.version>2.2.3</eclipse.emf.ecorechange.version>
         <eclipse.emf.ecorexmi.version>2.4.1</eclipse.emf.ecorexmi.version>
         <tika.version>1.3</tika.version>
-        <image.metadata.extractor>2.6.2</image.metadata.extractor>
+        <image.metadata.extractor>2.18.0</image.metadata.extractor>
 
         <!--WebDAV servlet-->
         <jmock.version>2.4.0</jmock.version>
